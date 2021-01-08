@@ -13,6 +13,7 @@ first some quick faq
 ### FAQ
 
 1. Why did you not use CurseForge?
+
    When building a pack for a specific version, (1.16.4) CurseForge can miss some mods due to main Game Version mismatch. For example _Inventory Sorter_.
 
    > ![](https://i.imgur.com/8Q1Upwz.png)
@@ -22,6 +23,7 @@ first some quick faq
    > ![](https://i.imgur.com/H9hn7dM.png)
 
 1. Why do this?
+
    I host the server locally and review/test mods on the server machine. When I want to re-sync all mods I have to inform everyone to 1. delete their mods folder 2. download the new zip file 3. extract it 4. move all new mods to the `%appdata%` mods folder.
    With this I can inform everyone to download these 2 files somewhere and run `update-mods.bat` whenever I tell them to!
 
