@@ -12,11 +12,11 @@ first some quick faq
 1. Why did you not use CurseForge?
    When building a pack for a specific version, (1.16.4) CurseForge can miss some mods due to main Game Version mismatch. For example _Inventory Sorter_.
 
-   <img src="https://i.imgur.com/8Q1Upwz.png" border="1px" />
+   > ![](https://i.imgur.com/8Q1Upwz.png)
 
    This mod works in 1.16.4, but the listed version is 1.15.2. You have to navigate to the Files tab and download 1.16.3 file (beta version, but still)
 
-   ![](https://i.imgur.com/H9hn7dM.png)
+   > ![](https://i.imgur.com/H9hn7dM.png)
 
 1. Why do this?
    I host the server locally and review/test mods on the server machine. When I want to re-sync all mods I have to inform everyone to 1. delete their mods folder 2. download the new zip file 3. extract it 4. move all new mods to the %appdata% mods folder.
@@ -28,7 +28,7 @@ So if you want to set this up for yourself here is what you will do!
 
 1. Download this repo
 
-   ![](https://i.imgur.com/nNEbUhb.png)
+> ![](https://i.imgur.com/nNEbUhb.png)
 
 1. Extract the zip you just downloaded
 
