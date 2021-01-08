@@ -12,7 +12,7 @@ first some quick faq
 1. Why did you not use CurseForge?
    When building a pack for a specific version, (1.16.4) CurseForge can miss some mods due to main Game Version mismatch. For example _Inventory Sorter_.
 
-   <img src="https://i.imgur.com/8Q1Upwz.png" border=1px />
+   <img src="https://i.imgur.com/8Q1Upwz.png" border="1" />
 
    This mod works in 1.16.4, but the listed version is 1.15.2. You have to navigate to the Files tab and download 1.16.3 file (beta version, but still)
 
