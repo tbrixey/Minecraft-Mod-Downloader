@@ -6,6 +6,8 @@ You appear to have stumbled upon my personal minecraft mod updater script. Here 
 - [Instructions](#Instructions)
 - [Support Me](#Support-Me)
 
+Watch it work. https://imgur.com/Mu0AYpA
+
 first some quick faq
 
 ### FAQ
