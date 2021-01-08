@@ -4,6 +4,7 @@ You appear to have stumbled upon my personal minecraft mod updater script. Here 
 
 - [FAQ](#FAQ)
 - [Instructions](#Instructions)
+- [Support Me](#Support-Me)
 
 first some quick faq
 
@@ -63,3 +64,9 @@ So if you want to set this up for yourself here is what you will do!
    > ![](https://i.imgur.com/RtSkUCT.png)
 
 1. Save it and you are good to go!
+
+#### Support Me
+
+I'm slapping this link here just in case someone want to buy me a drink. Zero pressure!
+
+<a href='https://ko-fi.com/I2I1DTSE' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
