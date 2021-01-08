@@ -1,9 +1,9 @@
 # Minecraft Mod Updater (Windows 10)
 
-You appear to have stumbled upon my personal minecraft mod updater script. Here is some back story for you! I have a server I run for a group of friends that utilize our own custom set of mods. You can copy this down and change the zip file of mods or do whatever you need to it if you find this useful!
+You appear to have stumbled upon my personal minecraft mod updater script. Here is some back story for you! I have a server I run for a group of friends that utilize our own custom set of mods. You can copy this down and change the zip file of mods or do whatever you need to it if you find this useful! The instructions I have listed here help you modify the script to use your own zip file!
 
 - [FAQ](#FAQ)
-- [Instructions](#Instructions)
+- [Instructions to do it yourself](#Instructions)
 - [Support Me](#Support-Me)
 
 Watch it work. https://imgur.com/Mu0AYpA
