@@ -56,10 +56,10 @@ So if you want to set this up for yourself here is what you will do!
 
 1. Phew step 4. Back to the directory with the `update-mods.bat`. Right click it and click edit.
 
-> ![](https://i.imgur.com/bA20dKK.png)
+   > ![](https://i.imgur.com/bA20dKK.png)
 
 1. Change the url in the curl command to the one you copied in step 3.4.
 
-> ![](https://i.imgur.com/RtSkUCT.png)
+   > ![](https://i.imgur.com/RtSkUCT.png)
 
 1. Save it and you are good to go!
