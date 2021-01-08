@@ -14,7 +14,7 @@ first some quick faq
 
 1. Why did you not use CurseForge?
 
-   When building a pack for a specific version, (1.16.4) CurseForge can miss some mods due to main Game Version mismatch. For example _Inventory Sorter_.
+   CurseForge is also just another program to download. Why download it if you can create other ways to sync mods :wink:. When building a pack for a specific version, (1.16.4) CurseForge can miss some mods due to main Game Version mismatch. For example _Inventory Sorter_. 
 
    > ![](https://i.imgur.com/8Q1Upwz.png)
 
