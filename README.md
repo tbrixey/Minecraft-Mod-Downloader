@@ -26,6 +26,10 @@ first some quick faq
 
    I host the server locally and review/test mods on the server machine. When I want to re-sync all mods I have to inform everyone to 1. delete their mods folder 2. download the new zip file 3. extract it 4. move all new mods to the `%appdata%` mods folder.
    With this I can inform everyone to download these 2 files somewhere and run `update-mods.bat` whenever I tell them to!
+   
+1. What about ServerSync?
+
+   I saw it and didn't try it due to it being additional mods to install on both ends. Also requires another port to open and I didn't want to do that. Plus if your Minecraft server is hosted in the cloud this solution still works. Since I'm a programmer I wanted to create something that fit my needs better.
 
 ## Instructions
 
